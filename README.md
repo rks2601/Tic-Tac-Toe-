@@ -4,12 +4,18 @@ Welcome to the Tic Tac Toe game! This simple web-based game allows two players t
 
 **Features**
 1.Classic 3x3 grid.
+
 2.Two-player mode.
+
 3.Responsive design for various screen sizes.
+
 **Technologies Used**
 1.HTML5
+
 2.CSS3
+
 3.JavaScript
+
 **Setup**
 **Clone the repository:**
 bash
